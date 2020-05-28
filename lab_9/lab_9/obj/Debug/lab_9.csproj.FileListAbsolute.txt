@@ -1,0 +1,6 @@
+D:\Laboratory_pr\lab_9\lab_9\bin\Debug\lab_9.exe.config
+D:\Laboratory_pr\lab_9\lab_9\bin\Debug\lab_9.exe
+D:\Laboratory_pr\lab_9\lab_9\bin\Debug\lab_9.pdb
+D:\Laboratory_pr\lab_9\lab_9\obj\Debug\lab_9.csprojResolveAssemblyReference.cache
+D:\Laboratory_pr\lab_9\lab_9\obj\Debug\lab_9.exe
+D:\Laboratory_pr\lab_9\lab_9\obj\Debug\lab_9.pdb
